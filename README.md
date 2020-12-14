@@ -30,7 +30,7 @@ Research paper dataset is a new dataset created by Bruno Seo and Michal Gryga fo
 
 ### References
 
-This research was supported by Prof. Darek Hoiem as a part of CS445 Computational Photography final project.
+This research was supported by Prof. Derek Hoiem as a part of CS445 Computational Photography final project.
 
 - PyTorch Tutorial: https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
 - Object Detection with Faster RCNN: https://blog.francium.tech/object-detection-with-faster-rcnn-bc2e4295bf49
