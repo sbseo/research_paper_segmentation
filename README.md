@@ -24,7 +24,9 @@ git clone https://github.com/sbseo/research_paper_segmentation.git
 
 <img src="./output/4.jpg" alt="4" style="zoom:30%;" />
 
+### Research Paper Dataset
 
+Research paper dataset is a new dataset created by Bruno Seo and Michal Gryga for CS445 final project. This dataset contains 700 data-augmented images from arXiv research papers. The dataset can be downloaded from this link. <a href="https://uofi.app.box.com/file/753063647388?s=zaer1y9ob4lnb9r1sihmyp5pyivmbrop">*[Research Paper Dataset]* </a>
 
 ### References
 
@@ -34,3 +36,4 @@ This research was supported by Prof. Darek Hoiem as a part of CS445 Computationa
 - Object Detection with Faster RCNN: https://blog.francium.tech/object-detection-with-faster-rcnn-bc2e4295bf49
 - Text Detection by Faster R-CNN with Multiple Region Proposal Networks, Nagaoka et al., 2017
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Ren et al., 2016
+
